@@ -1,3 +1,3 @@
-## ECommerce
-This code repository include online shopping app. Ravi Tambade Sir Demo
-Author:Pratik Kawale
+## Core Java Basic Programms
+This code repository include Basic programms  of the core Java
+Author: Pratik Kawale
