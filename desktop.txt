@@ -1,0 +1,5 @@
+public class Main{
+public static void main (Strinng [] args){
+System.out.println("HelloWorld Notepad");
+}
+}
